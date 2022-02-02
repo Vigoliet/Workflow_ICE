@@ -1,0 +1,15 @@
+header{
+    background-color:rgb(78, 170, 231) ;
+     
+}
+footer{
+    background-color:rgb(78, 170, 231);
+}
+
+a{
+    color:white;
+}
+
+a:hover{
+    color:black;
+}
